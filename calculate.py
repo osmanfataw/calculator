@@ -20,6 +20,6 @@ elif operation == "-":
 elif operation == "/":
     div(x, y)
 elif operation == "*":
-    mult(a, b)
+    mult(x, y)
 else:
     print("Invalid input,Try Again")
